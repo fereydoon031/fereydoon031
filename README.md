@@ -13,7 +13,6 @@ Hi, I'm Fereydoon Jafari Babookani, a developer from Iran.
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=fereydoon031&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Fereydoon's github stats" />
 </a>
 <a href="https://github.com/fereydoon031">
->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fereydoon031&layout=compact&theme=material-palenight" />
 </a>
 
