@@ -5,7 +5,7 @@
 
 Hi, I'm Fereydoon Jafari Babookani, a developer from Iran.
 
-- 🔭 I’m currently interested in working on  Robotics & ROS, Autonomous Vehicles, Game development, Artificial Intelligence also Co-Founder of [IRANROS](http://iranros.com/)
+- 🔭 I’m currently interested in working on robotics, robot operation system (ROS), autonomous vehicles, game development, artificial intelligence also co-founder of [IRANROS](http://iranros.com/)
 
 - 💬 Ask me about anything [here](https://github.com/fereydoon031/fereydoon031/issues)
 
